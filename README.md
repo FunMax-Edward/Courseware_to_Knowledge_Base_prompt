@@ -1,0 +1,2 @@
+# Courseware_to_Knowledge_Base_prompt
+把老师课件转化成知识库，并且生成图文笔记，图片是从课件里面抠出来
